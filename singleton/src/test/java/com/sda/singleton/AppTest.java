@@ -1,4 +1,4 @@
-package com.sda.patterns;
+package com.sda.singleton;
 
 import static org.junit.Assert.assertTrue;
 
