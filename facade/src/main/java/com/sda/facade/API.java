@@ -28,9 +28,7 @@ public class API {
         this.product.getByCategory(category);
     }
 
-    public void getAllProducts(){
-        this.product.getAll();
-    }
+
 
 
 }
